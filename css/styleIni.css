@@ -43,7 +43,7 @@ h1 {
   width: 40%;
   height: 80%;
   background: transparent;
-  position: relative;
+  position: absolut;
   padding: 10px;
   border-radius: 8px;
   box-shadow: 0px 0px 10px rgba(0, 0, 0, 0);
