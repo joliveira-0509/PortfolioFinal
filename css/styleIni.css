@@ -20,7 +20,7 @@ video {
 h1 {
   text-align: center;
   background-position: center;
-  font-size: 100vh;
+  font-size: 80vh;
   font-weight: bold;
   text-transform:uppercase;
   background-color: rgb(255, 255, 255);
@@ -76,7 +76,7 @@ h1 {
   color: white;
   transform: scale(1.1)
 }
-/* Adicione este CSS no cabeçalho do seu HTML ou em um arquivo CSS externo */
+
 .cursor-halo {
   width: 20px;
   height: 20px;
